@@ -302,6 +302,7 @@ Here, we taxonomize studies that integrate implicit representations into buildin
 **Generative modeling of living cells with SO(3)-equivariant implicit neural representations.** [18 th Apr., 2023] [arXiv preprint, 2023]<br>
 *David Wiesner, Julian Suk, Sven Dummer, Tereza Nečasová, Vladimír Ulman, David Svoboda, Jelmer M. Wolterink*<br>
  [[PDF]( https://arxiv.org/abs/2304.08960)]
+ 
 
 
  <img src="Figures/Synthesis.jpg" alt="Synthesis" width="1016" height="5">
